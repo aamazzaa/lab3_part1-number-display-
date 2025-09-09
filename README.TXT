@@ -52,3 +52,8 @@ if a & b = true {
     b = false
 }  
 18.
+it returned "100"
+19.
+it returned 100 no quotes
+20. first option would give 12cat
+and the other would give cat39 ( because the first one is performing the addition and the other is just assigning another digit to the first number)
